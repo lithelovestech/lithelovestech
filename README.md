@@ -1,4 +1,3 @@
-## Hi there 👋
 - 👋 Hey, I'm Lithemba
 - 🌱 I’m currently studying for a Bachelor of Information Technology at Nelson Mandela University
 - 👯 I’m looking to collaborate on beginner-friendly or creative projects
